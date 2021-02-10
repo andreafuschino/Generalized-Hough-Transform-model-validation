@@ -12,3 +12,4 @@ Implementation choices:
 - RANSAC is used to find a roboust homography for the estimation of the bounding-box in the test image.
 
 
+![alt text](https://github.com/andreafuschino/Generalized-Hough-Transform/blob/main/output.png)
