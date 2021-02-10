@@ -1,8 +1,2 @@
 # Generalized-Hough-Transform
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-hjhjhj
+Python implementation of the GHT(Generalized Hough Transform) to validate feature-based matches
