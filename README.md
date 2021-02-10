@@ -11,5 +11,6 @@ Implementation choices:
 - the PEAK_LOCAL_MAXIMA function is used to find peaks in the AA(accumulator array).
 - RANSAC is used to find a roboust homography for the estimation of the bounding-box in the test image.
 
-
 ![alt text](https://github.com/andreafuschino/Generalized-Hough-Transform/blob/main/output.png)
+
+package needed: numpy, opencv, matplotlib, skimage, math
