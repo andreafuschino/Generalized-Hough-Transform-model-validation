@@ -13,7 +13,7 @@ Implementation choices:
 
 package: Jupyter, OpenCv, Numpy, Matplotlib, Skimage, Math
 
-to run the web application: ```jupyter notebook ```
+to run the jupyter notebook: ```jupyter notebook ```
 
 
 ## Result
